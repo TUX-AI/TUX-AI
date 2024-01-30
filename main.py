@@ -1,0 +1,2 @@
+import stt
+import threading
