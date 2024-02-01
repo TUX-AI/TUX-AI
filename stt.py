@@ -20,3 +20,7 @@ def start():
             text = recognizer.Result()
             result = json.loads(text)
             print(result, type(result))
+
+
+if __name__ == "__main__":
+    start()
