@@ -1,7 +1,6 @@
 .env
 /.venv/
 /vosk-files/
-/configs/*.json
 
 
 # Byte-compiled / optimized / DLL files

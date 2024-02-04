@@ -13,3 +13,12 @@ pip install -r requirements.txt
 Download a pre-trained model from [here](https://alphacephei.com/vosk/models)
 and extract it to the `tux-ai/vosk-files` directory.
 
+
+## TODO
+- [ ] Speech-to-text
+- [ ] Text-to-speech
+- [ ] Computer vision
+- [ ] Natural language processing
+- [ ] Extensible shortcut system
+- [ ] Voice Shortcuts
+- [ ] Gesture Shortcuts

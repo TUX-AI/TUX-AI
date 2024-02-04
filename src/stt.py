@@ -6,7 +6,7 @@ running = True
 
 
 def start():
-    model = Model(r"./vosk-files/vosk-model-small-en-us-0.15")
+    model = Model(r"../vosk-files/vosk-model-small-en-us-0.15")
     recognizer = KaldiRecognizer(model, 16000)
 
     mic = pyaudio.PyAudio()
